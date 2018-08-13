@@ -1,6 +1,6 @@
 {
   "name": "@mtr-react/react-native-circular-action-menu",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "customizable circular action menu component for react-native",
   "main": "ActionButton.js",
   "scripts": {
@@ -20,7 +20,7 @@
     "satellite-menu"
   ],
   "peerDependencies": {
-    "react-native": ">=0.56.0"
+    "react-native": ">=0.54"
   },
   "author": "Mihir Rege",
   "license": "MIT",
